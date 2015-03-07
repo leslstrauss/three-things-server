@@ -1,0 +1,14 @@
+{
+  "name": "three-things-server",
+  "version": "1.0.0",
+  "description": "Server for Three Things app",
+  "main": "server.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Leslie Strauss",
+  "license": "MIT"
+}
