@@ -7,8 +7,14 @@
     "test": "test"
   },
   "scripts": {
-    "test": "test"
-  },
+    "test": "mocha",
+    "start": "node server.js"  },
   "author": "Leslie Strauss",
-  "license": "MIT"
-}
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leslstrauss/three-things-server"
+},
+"repository": {
+  "type": "git",
+  "url": "https://github.com/leslstrauss/three-things-server"
+},
