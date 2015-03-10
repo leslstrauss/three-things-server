@@ -1,2 +1,3 @@
-# Server for Three Things UI, located at:
-https://github.com/leslstrauss/three-things
+# Three-Things-Server
+REST server using Node.js, Express, and Mongoose.
+The server will function as a backend for an Ember CLI project.
