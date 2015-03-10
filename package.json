@@ -1,11 +1,24 @@
 {
   "name": "three-things-server",
   "version": "1.0.0",
-  "description": "Server for Three Things app",
   "private": true,
+  "description": "Server for Three Things app",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
   "scripts": {
     "start": "node ./bin/www"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/leslstrauss/three-things-server"
+  },
+  "author": "Leslie Strauss",
+  "bugs": {
+    "url": "https://github.com/leslstrauss/three-things-server/issues"
+  },
+  "homepage": "",
   "dependencies": {
     "body-parser": "~1.12.0",
     "cookie-parser": "~1.3.4",
