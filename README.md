@@ -1,3 +1,4 @@
 # Three-Things-Server
-REST server using Node.js, Express, and Mongoose.
-The server will function as a backend for an Ember CLI project.
+Server for Three Things client app, located at:
+https://github.com/leslstrauss/three-things
+This REST server uses Node.js, Express, and Mongoose.
