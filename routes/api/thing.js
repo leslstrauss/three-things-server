@@ -1,7 +1,7 @@
 'use strict'
 
 var mongoose = require('mongoose');
-var Thing = require('../../models/thing');
+var thing = require('../../models/thing');
 
 module.exports.addThing = function(req, res) {
   var thing = new Thing(req.body.thing);

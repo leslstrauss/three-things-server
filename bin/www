@@ -5,7 +5,7 @@
  */
 
 var app = require('../app');
-var debug = require('debug')('RESTServer:server');
+var debug = require('debug')('three-things-server:server');
 var http = require('http');
 
 /**
